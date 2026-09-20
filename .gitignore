@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables & Secrets
+.env
+*.local
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Browser Profiles & Session Data (DO NOT COMMIT)
+game_profiles/
+**/SingletonLock
+**/SingletonSocket
+**/SingletonCookie
+
+# Logs & Temporary files
+*.log
+scratch/
+Текстовый документ.txt
+clickers/
+saved_objects/
+karex.py
